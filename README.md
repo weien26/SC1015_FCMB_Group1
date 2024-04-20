@@ -35,7 +35,7 @@ Our GitHub repository is organized to facilitate ease of navigation and collabor
 4. **Results:** Includes visualizations, model performance metrics, and any additional outputs generated during the analysis process.
 
 ## Contribution:
-We welcome contributions from the data science and healthcare communities to further enhance the accuracy and robustness of our predictive model. Whether you're interested in refining the analysis, experimenting with different machine learning algorithms, or optimizing model hyperparameters, your contributions are invaluable in advancing our understanding of heart disease prediction.
 
-Thank you for visiting our GitHub repository dedicated to heart disease prediction. Together, we can leverage data-driven insights to improve healthcare outcomes and empower individuals to make informed decisions about their cardiovascular health.
-![Uploading image.png…]()
+Nga Wei En: Data Preperation, EDA, Cross Validation, Neural Network Modeling, Resampling, Fine Tuning, Presentation
+Bai YiFan: Data Preperation, EDA, Decision Tree Modeling, Fine Tuning, Slides, Presentation
+HongChao: Random Forest Modeling, Presentation
