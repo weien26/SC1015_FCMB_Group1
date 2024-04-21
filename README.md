@@ -69,13 +69,13 @@ Our methodology for analyzing the dataset and developing the predictive model in
    In the model development phase, we experiment with various algorithms to build a model that best predicts heart disease. Below are visualizations representing the performance of each model during the training phase.
 
   ### Decision Tree
-  ![Decision Tree Model](/Pictures/DecisionTree_model.png)
+  ![Decision Tree Model](/Pictures/DecisionTree.png)
 
   ### Random Forest
-  ![Random Forest Model](/Pictures/RandomForest_model.png)
+  ![Random Forest Model](/Pictures/RandomForest.png)
 
   ### Neural Network
-  ![Neural Network Model](/Pictures/NeuralNetwork_model.png)
+  ![Neural Network Model](/Pictures/NeuralNetwork.png)
 
 4. **Cross Validation:** 
   To ensure the robustness of our models, we employ K-fold cross-validation. This technique allows us to assess how the models will generalize to an independent dataset. Here's the   visualization for the cross-validation process:
