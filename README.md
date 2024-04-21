@@ -150,6 +150,6 @@ The selection of the Neural Network was crucial due to its superior performance 
 
 | Team Member | Contributions                                             |
 |-------------|-----------------------------------------------------------|
-| Nga Wei En  | Data Preparation, EDA, Cross Validation, Neural Network Modeling, Resampling, Fine Tuning, Presentation, Github Documentation |
+| Nga Wei En  | Data Preparation, EDA, Cross Validation, Neural Network Modeling, Resampling, Fine Tuning, Github Documentation |
 | Bai YiFan   | Data Preparation, EDA, Decision Tree Modeling, Fine Tuning, Presentation, Video Editing |
 | Lin HongChao    | Random Forest Modeling, Presentation, Documentation                      |
