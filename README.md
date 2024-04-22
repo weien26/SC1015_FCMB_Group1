@@ -165,5 +165,8 @@ The selection of the Neural Network was crucial due to its superior performance 
 ### Software and Tools
 - **ChatGPT**: Assisted with explanations on complex topics and provided debugging support for coding issues.
 - **scikit-learn Documentation**: Provided guidance on using various machine learning models. Documentation available at: [scikit-learn](https://scikit-learn.org/stable/user_guide.html).
-- **pandas Documentation**: Provided insight into the functions and usage of pandas for data manipulation. Documentation available at: [pandas](
+- **pandas Documentation**: Provided insight into the functions and usage of pandas for data manipulation. Documentation available at: [pandas](https://pandas.pydata.org/docs/).
+
+### Health Standards
+- **World Health Organization (WHO) BMI Categories**: Provides standard categories for BMI to classify underweight, normal weight, overweight, and obesity in adults. More information can be found at the [WHO website](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight).
 
