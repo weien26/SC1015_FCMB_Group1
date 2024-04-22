@@ -155,3 +155,15 @@ The selection of the Neural Network was crucial due to its superior performance 
 | Nga Wei En  | Data Preparation, EDA, Cross Validation, Neural Network Modeling, Resampling, Fine Tuning, Github Documentation |
 | Bai YiFan   | Data Preparation, EDA, Decision Tree Modeling, Fine Tuning, Presentation, Video Editing |
 | Lin HongChao    | Random Forest Modeling, Presentation, Documentation                      |
+
+
+## References and Acknowledgments
+
+### Dataset
+- **Kaggle Dataset**: "Personal Key Indicators of Heart Disease" dataset by Kamil Pytlak. Available at: [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease). Accessed in 2024.
+
+### Software and Tools
+- **ChatGPT**: Assisted with explanations on complex topics and provided debugging support for coding issues.
+- **scikit-learn Documentation**: Provided guidance on using various machine learning models. Documentation available at: [scikit-learn](https://scikit-learn.org/stable/user_guide.html).
+- **pandas Documentation**: Provided insight into the functions and usage of pandas for data manipulation. Documentation available at: [pandas](
+
